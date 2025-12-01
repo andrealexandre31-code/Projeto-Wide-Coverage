@@ -1,0 +1,121 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+.container {
+    display: inline-block;
+}
+header {
+    margin: 47px 0px 150px 42px;
+}
+a {
+    margin-right: 32px;
+    width: 87px;
+    height: 20px;
+    line-height: 100%;
+    color: #17233D;
+    cursor: pointer;
+}
+.button-header {
+    background: #4CB538;
+    border-radius: 1px;
+    width: 124px;
+    height: 51px;
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+img { 
+    width: 595px;
+    height: 500px;
+    margin: 0px 0px 102px 121px;
+}
+section {
+    display: inline-block;
+    width: 50vw;
+    height: 50vh;
+    position: relative;
+}
+h1 {
+    font-size: 62px;
+    line-height: 62px;
+    width: 582px;
+    height: 164px;
+    position: absolute;
+    top: 10%;
+    color: #161A49;
+    margin-left: 85px; 
+}
+p {
+    font-size: 33px;
+    line-height: 33px;
+    text-align: justify;
+    width: 493px;
+    height: 99px;
+    color: #4B505A;
+    opacity: .8;
+    position: absolute;
+    top: 40%;
+    margin-left: 85px; 
+}
+.Link-main {
+    width: 112px;
+    height: 27px;
+    line-height: 100%;
+    color: #6FBF44;
+    cursor: pointer;
+    text-decoration: none;
+    position: absolute;
+    bottom: 30%;
+    margin-left: 85px;     
+}
+@media screen and (max-width: 1000px) {
+    section {
+        height: 50%;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        display: block;
+    }
+    header {
+        display: none;
+    }
+    h1 {
+        line-height: 30px;
+        font-size: 30px;
+        width: 278px;
+        height: 60px;
+        display: block;
+        top: 10%;
+        margin: 124px 55px 29px 57px;
+        padding: 0;
+        text-align: center
+    }
+    p {
+        line-height: 33px;
+        font-size: 18px;
+        width: 304px;
+        height: 165px;
+        position: fixed;
+        top: 25%;
+        margin: 29px 43px 26px 43px;
+        text-align: center;
+    }
+    .Link-main {
+        position: fixed;
+        top: 45%;
+        margin: 26px 139px 59px 139px;
+        display: block;
+}
+img {
+        width: 312px;
+        height: 288px;
+        position: fixed;
+        top: 50%;
+        margin: 59px 39px 22px 39px;
+        display: block;
+    }
+}
