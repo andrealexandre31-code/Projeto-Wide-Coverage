@@ -1,4 +1,4 @@
-# Projeto-We Care
+# Projeto Wide Coverage
 <br>
 <br>
 <h1>Projeto desenvolvido dentro<a href="https://rodolfomori.com.br"/> devclub</a></h1>
