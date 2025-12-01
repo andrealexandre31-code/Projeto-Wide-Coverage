@@ -9,4 +9,4 @@
 
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-<img src="https://github.com/andrealexandre31-code/Projeto-we-care/blob/master/assets/we%20care3.png?raw=true"/>
+<img src="https://github.com/andrealexandre31-code/Projeto-Wide-Coverage/blob/main/assets/image.png?raw=true"/>
